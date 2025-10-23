@@ -36,11 +36,11 @@ however, it could be swapped out at a later stage for a different library. Pleas
 design your solution with this possibility in mind.
 
 The main colours we want to extract are:
-•	Vibrant: which can be mapped from Palette’s VibrantColor
-•	Light Vibrant: which can be mapped from Palette’s LightVibrantColor
-•	Dark Vibrant: which can be mapped from Palette’s DarkVibrantColor
-•	Muted: which can be mapped from Palette’s MutedColor
-•	Light Muted: which can be mapped from Palette’s LightMutedColor
+* Vibrant: which can be mapped from Palette’s VibrantColor
+* Light Vibrant: which can be mapped from Palette’s LightVibrantColor
+* Dark Vibrant: which can be mapped from Palette’s DarkVibrantColor
+* Muted: which can be mapped from Palette’s MutedColor
+* Light Muted: which can be mapped from Palette’s LightMutedColor
 
 ## Other
 
